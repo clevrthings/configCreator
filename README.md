@@ -193,7 +193,7 @@ print(config.cat1.sub1.sub2.sub3.sub4.sub5.sub6)
 The initialization will always read the latest values from the config file, so the original values in the config file when `configuration.py` was created do not matter.
 
 **5. This example will output the following:**
-```python
+```
 >>> password
 >>> app.log
 >>> Sub category 6 test
