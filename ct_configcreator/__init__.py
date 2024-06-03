@@ -1,0 +1,1 @@
+from .configcreator import createConfig

@@ -1,0 +1,17 @@
+database:
+  user:
+    username: root
+    password: password
+  host: localhost
+  port: 3306
+logging:
+  level: DEBUG
+  file: app.log
+
+cat1:
+  sub1:
+    sub2:
+      sub3:
+        sub4:
+          sub5:
+            sub6: Sub category 6 test
